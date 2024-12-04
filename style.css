@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#start {
+    margin: 0 auto;
+    width: 726.4px;
+    padding: 12px 80px;
+}
+
+#tuf {
+    margin: 0 90px;
+    width: 726.4px;
+    display: inline;
+}
+
+#About {
+    font-size: 18px;
+    color: #FF5DA3;
+    font-weight: 600;
+}
+
+#tuff {
+    margin: 10px;
+}
+
+#lastDiv {
+    display: inline;
+}
+
+#Contact {
+    color: #fff;
+    width: 73px;
+    height: 17px;
+    font-weight: 500;
+    padding: 8px 12px;
+    background: #00AC25;
+    border-radius: 8px;
+
+}
+
+#bad {
+    margin: 0 auto;
+    text-align: center;
+    width: 1326px;
+    height: 700px;
+    margin-top: 221px;
+}
+
+#baddd {
+    font-size: 72px;
+    width: 1226px;
+    margin: 16px auto;
+}
+
+#badd {
+    color: #FF5DA3;
+    font-weight: 700;
+}
+
+
+#paragraph {
+    margin: 24px 0;
+    display: inline;
+    font-size: 24px;
+    width: 1326px;
+    text-align: center;
+}
+
+#enjoy {
+    text-align: center;
+    width: 1326px;
+    font-size: 48px;
+    font-weight: 700;
+    height: 59px;
+}
+
+#par {
+    width: 716px;
+    height: 96px;
+    color: #6941C6;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 24px;
+}
+
+#ari {
+    font-size: 18px;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background: #00AC25;
+    color: #FFFFFF;
+    width: 186px;
+    height: 22px;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+#bolo {
+    width: 100%;
+    background: #53389E;
+}
+
+#bolobolo {
+    margin: 16px auto;
+    margin-bottom: 0;
+    margin-top: 585px;
+    padding: 48px;
+}
+
+#logoo {
+    vertical-align: middle;
+}
+
+#surati {
+    margin: 0 auto;
+    width: 900px;
+}
+
+#nagdadbolo {
+    display: inline-block;
+    color: #E9D7FE;
+    margin: 0 16px;
+    vertical-align: middle;
+    margin-left: 100px;
+
+}
+
+#future {
+    vertical-align: middle;
+    margin: 0 16px;
+    color: #E9D7FE;
+    display: inline-block;
+}
+
+#goal {
+    vertical-align: middle;
+    margin: 0 16px;
+    color: #E9D7FE;
+    display: inline-block;
+}
+
+#noo {
+    vertical-align: middle;
+    margin: 0 16px;
+    color: #E9D7FE;
+    display: inline-block;
+}
+
+#now {
+    vertical-align: middle;
+    margin: 0 16px;
+    color: #E9D7FE;
+    display: inline-block;
+}
+
+#privacy {
+    vertical-align: middle;
+    margin: 0 16px;
+    color: #E9D7FE;
+    display: inline-block;
+}
+
+#vsooo {
+    vertical-align: middle;
+    margin: 0 16px;
+    color: #E9D7FE;
+    display: inline-block;
+    margin-left: 40px;
+}
